@@ -1,0 +1,22 @@
+{
+  "name": "certificator",
+  "version": "0.0.1",
+  "description": "A tool that will generate certificates based on a HTML/CSS template and a JSON object with the details of the certified.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V-Volte/certificator.git"
+  },
+  "author": "Sekhara Pramod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/V-Volte/certificator/issues"
+  },
+  "homepage": "https://github.com/V-Volte/certificator#readme",
+  "dependencies": {
+    "node-html-to-image": "^3.3.0"
+  }
+}

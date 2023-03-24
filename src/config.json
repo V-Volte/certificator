@@ -1,0 +1,12 @@
+{
+    "template": {
+        "html": "D:/Programming/Projects/certificator/templates/index.html",
+        "styles": [
+            "D:/Programming/Projects/certificator/templates/test.css",
+            "a.css"
+        ]
+    },
+    "output": {
+        "directory": ""
+    }
+}
