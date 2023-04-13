@@ -1,8 +1,8 @@
 {
     "template": {
-        "html": "D:/Programming/Projects/certificator/templates/index.html",
+        "html": "D:/Programming/Projects/certificator/templates/mrits-default/index.html",
         "styles": [
-            "D:/Programming/Projects/certificator/templates/test.css",
+            "D:/Programming/Projects/certificator/templates/mrits-default/test.css",
             "a.css"
         ]
     },
